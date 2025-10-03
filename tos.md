@@ -1,8 +1,8 @@
-Terms of Service for [Your Discord Bot Name]
+Terms of Service for Giveaway bot And Sentry
 Last Updated: October 3, 2025
 
 1. Agreement to Terms
-This Terms of Service Agreement ("Agreement") is a legal contract between you, the user, and [Your Name/Entity Name] ("Bot Owner") concerning your use of the [Your Discord Bot Name] Discord bot ("the Bot").
+This Terms of Service Agreement ("Agreement") is a legal contract between you, the user, and HarViMatex("Bot Owner") concerning your use of the Sentry Discord bot ("the Bot").
 
 By inviting the Bot to any server, using any of its commands, or interacting with it in any way, you acknowledge that you have read, understood, and agree to be bound by:
 
@@ -34,4 +34,4 @@ THE BOT IS PROVIDED ON AN "AS-IS" AND "AS-AVAILABLE" BASIS. The Bot Owner expres
 The Bot Owner may, at any time and for any reason, terminate or suspend your access to the Bot without prior notice or liability.
 
 6. Contact
-For any questions or concerns regarding these Terms of Service, please contact the Bot Owner at: [Your Support Email Address] or join the support server at [Your Discord Support Server Link].
+For any questions or concerns regarding these Terms of Service, please contact the Bot Owner at: mails in pp.md or join the support server at "coming soon".
